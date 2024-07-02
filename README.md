@@ -90,5 +90,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MdAzizulHaqueWebDev&theme=dracula&show_icons=true&hide_border=true&count_private=false" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdAzizulHaqueWebDev&theme=dracula&hide_border=true" />
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=MdAzizulHaqueWebDev&theme=dracula&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=MdAzizulHaqueWebDev&theme=dracula&show_icons=true&hide_border=true&layout=compact)" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAzizulHaqueWebDev&theme=synthwave&show_icons=true&hide_border=true&layout=compact" />
 </div>
+<br/>
+<br/>

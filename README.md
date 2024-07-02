@@ -92,8 +92,6 @@
 <div align="center">
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MdAzizulHaqueWebDev&theme=dracula&hide_border=true" alt="azizul haque"   />
 </div>
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="barnard_shaw" height="30" width="40" /> Codeforces </a>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developermohib&show_icons=true&locale=en&layout=compact" alt="developermohib" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MdAzizulHaqueWebDev&show_icons=true&locale=en&layout=compact" alt="developermohib" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developermohib&show_icons=true&locale=en" alt="developermohib" /></p>

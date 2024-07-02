@@ -87,4 +87,6 @@
 <h1>
   Github Stats
 </h1>
-
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=MdAzizulHaqueWebDev&theme=dracula&show_icons=true&hide_border=true&count_private=false" />
+</div>

@@ -89,10 +89,4 @@
 </h1>
 <br/>
 <hr/>
-<div align="center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=MdAzizulHaqueWebDev&theme=dracula&hide_border=true" alt="azizul haque"   />
-  <br/>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=MdAzizulHaqueWebDev&show_icons=true&locale=en&layout=compact" alt="azizul haque" />
-  <br/>
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=MdAzizulHaqueWebDev&theme=dracula&hide_border=true" alt="azizul haque" />
-</div>
+

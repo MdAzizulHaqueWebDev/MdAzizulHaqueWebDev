@@ -3,9 +3,7 @@
 <img src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" align="center" height="300" width="600" />
 </div>  
   
-
 - ## <ins><div align="center">I'm Azizul Haque, a Front-end developer 👨‍💻</div></ins>  
-  
 
 - 🔭 I’m currently working on personal coding projects .  
   
@@ -90,10 +88,9 @@
   Github Stats
 </h1>
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAzizulHaqueWebDev&theme=synthwave&show_icons=true&hide_border=true&layout=compact" /><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=MdAzizulHaqueWebDev&theme=dracula&show_icons=true&hide_border=true&count_private=false" /> <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdAzizulHaqueWebDev&theme=dracula&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAzizulHaqueWebDev&theme=synthwave&show_icons=true&hide_border=true&layout=compact" />
 </div>
 <br/>
 <br/>

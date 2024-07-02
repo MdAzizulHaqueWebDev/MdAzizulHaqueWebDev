@@ -87,6 +87,4 @@
 <h1>
   Github Stats
 </h1>
-<br/>
-<hr/>
 

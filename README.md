@@ -84,11 +84,13 @@
 </div>  
 <br/>  
 <br/>
-## Git
+<h1>
+  Github Stats
+</h1>
 <br/>
 <hr/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=(https://github-readme-streak-stats.herokuapp.com/?user=MdAzizulHaqueWebDev&theme=dracula&hide_border=true" height="150" alt="stats graph"  />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MdAzizulHaqueWebDev&theme=dracula&hide_border=true" alt="azizul haque"   />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdAzizulHaqueWebDev&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
